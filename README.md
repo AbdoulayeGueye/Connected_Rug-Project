@@ -1,9 +1,9 @@
 # Connected_Rug-Project
 ## Membres :
 * Abdoulaye GUEYE (cheikhabdoulaye92@gmail.com) [AbdouayeGueye](https://github.com/AbdoulayeGueye "AbdoulayeGueye")
-* Abdoulaye GUEYE (cheikhabdoulaye92@gmail.com) [AbdouayeGueye](https://github.com/AbdoulayeGueye "AbdoulayeGueye")
-*Serigne Babacar DIOP(bdiop68@gmail.com)[serignebabacar](https://github.com/serignebabacar/)
-*Ibrahima Diane
+* Serigne Babacar DIOP(bdiop68@gmail.com)[serignebabacar](https://github.com/serignebabacar/)
+* Ibrahima DIANE
+
 ## Nom du produit IoT : Connected_Rug
 ## Description :
 *La chute constitue un probleme de santé publique et un événement potentiellement
