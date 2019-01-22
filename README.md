@@ -2,8 +2,7 @@
 ## Membres :
 * Abdoulaye GUEYE (cheikhabdoulaye92@gmail.com) [AbdouayeGueye](https://github.com/AbdoulayeGueye "AbdoulayeGueye")
 * Serigne Babacar DIOP(bdiop68@gmail.com)[serignebabacar](https://github.com/serignebabacar/)
-* Ibrahima DIANE
-
+* Ibrahim DIANE (dianibra@hotmail.com)[dianeibrahim](https://github.com/dianeibrahim)
 ## Nom du produit IoT : Connected_Rug
 ## Description :
 *La chute constitue un probleme de santé publique et un événement potentiellement
@@ -15,12 +14,12 @@
 Connected_Rug est un project dont l'objectif est de développé un tapis connecté 
 qui permet de detecter les chutes et les sorties du lit du senior atteint d'une 
 maladie.Ce tapis pourrait alerter le personnel soignant dès qu'une personne chute
-la nuit.Le personnel pourrait intervenir rapidement dans la chambre pour aider
+la nuit.Le personnel pourra intervenir rapidement dans la chambre pour aider
 la personne ou le patient.
 * Objectif 2 :
 la détection d'absence de mouvement : pour s'assurer du bon suivi du patient sur 
 le lit , 3 capteurs de mouvements déclencheront une alerte après un certain délais si aucun 
-mouvement n'est constaté 
+mouvement de la part du patient n'est constaté 
 * Objectif 3:
 une fonction alternative permet aux utilisateurs de déclencher eux-même un système d’alarme
 manuel, via par exemple un bracelet porté sur soi, qui communique par ce même canal.
