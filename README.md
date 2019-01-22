@@ -23,3 +23,14 @@ mouvement de la part du patient n'est constaté
 * Objectif 3:
 une fonction alternative permet aux utilisateurs de déclencher eux-même un système d’alarme
 manuel, via par exemple un bracelet porté sur soi, qui communique par ce même canal.
+
+
+
+
+## Comosants
+
+*Puce RFID
+*Le capteur de poids TEM01052B : se compose d’un demi-pont métallique auquel sont reliés trois fils de couleurs différentes (rouge, noir et bleu).
+En exerçant une pression sur le demi-pont, celui-ci envoie un signal via le câble rouge, dédié à ce type de transmission
+
+
